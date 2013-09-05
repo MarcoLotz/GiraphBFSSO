@@ -7,3 +7,6 @@ This will use BFS to calculate the depth of every single node from
 target vertex.
 Use Max_Superstep in order to limitate the number of supersteps for
 graphs that are too deep.
+
+Description: There is a section in the LotzReport.pdf explaining the usage,
+behaviour and benchmarks of this application.
